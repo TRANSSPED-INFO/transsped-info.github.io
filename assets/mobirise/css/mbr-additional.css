@@ -4317,29 +4317,6 @@ section.lazy-placeholder:after {
 .cid-s7LW1nV1Ma .dropdown-item:hover {
   color: #ff0c0c !important;
 }
-.cid-s7LRYB2by0 {
-  background: #ffffff;
-}
-.cid-s7LRYB2by0 .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-s7LRYB2by0 .mbr-figure {
-  margin: 0 auto;
-}
-.cid-s7LRYB2by0 figcaption {
-  position: relative;
-}
-.cid-s7LRYB2by0 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s7LRYB2by0 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-s7LTEFX8Mu .navbar {
   padding: .5rem 0;
   background: #000000;
